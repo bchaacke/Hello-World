@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tFbNsLDZaqMuassRwj+gt0ScH+Sk4BvMuX13OtrV4AF7y6csYEaTxy8cv35Ygz0XAj3wg5IKDGm5cDS0ytMFuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bchaa\\Documents\\GitHub\\Unity\\Hello-World\\Hello-World.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bchaa\\.nuget\\packages\\raylib-cs\\4.5.0\\raylib-cs.4.5.0.nupkg.sha512",
+    "C:\\Users\\bchaa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
